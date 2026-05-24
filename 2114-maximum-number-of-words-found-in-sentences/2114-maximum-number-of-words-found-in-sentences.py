@@ -4,12 +4,9 @@ class Solution(object):
         :type sentences: List[str]
         :rtype: int
         """
-        max=0
+        m=0
         for s in sentences:
-            c=0
-            for p in s:
-                if p==' ':
-                    c+=1
-            if(c>max):
-                max=c
-        return max+1
+            a=s.split(" ")
+            if(len(a)>m):
+                m=len(a)
+        return m
