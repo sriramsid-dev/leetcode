@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/sriramsid-dev/leetcode/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/sriramsid-dev/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Database
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sriramsid-dev/leetcode/tree/master/0048-rotate-image) |
+| [0496-next-greater-element-i](https://github.com/sriramsid-dev/leetcode/tree/master/0496-next-greater-element-i) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sriramsid-dev/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Math
 |  |
@@ -34,5 +36,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/sriramsid-dev/leetcode/tree/master/0496-next-greater-element-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/sriramsid-dev/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/sriramsid-dev/leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
