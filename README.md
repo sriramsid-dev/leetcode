@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/sriramsid-dev/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/sriramsid-dev/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sriramsid-dev/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/sriramsid-dev/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Math
 |  |
 | ------- |
@@ -75,9 +76,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/sriramsid-dev/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sriramsid-dev/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/sriramsid-dev/leetcode/tree/master/1539-kth-missing-positive-number) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/sriramsid-dev/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/sriramsid-dev/leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/sriramsid-dev/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Greedy
+|  |
+| ------- |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/sriramsid-dev/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
+## Sorting
+|  |
+| ------- |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/sriramsid-dev/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/sriramsid-dev/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 <!---LeetCode Topics End-->
