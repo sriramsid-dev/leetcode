@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1327-list-the-products-ordered-in-a-period](https://github.com/sriramsid-dev/leetcode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1484-group-sold-products-by-the-date](https://github.com/sriramsid-dev/leetcode/tree/master/1484-group-sold-products-by-the-date) |
 | [1527-patients-with-a-condition](https://github.com/sriramsid-dev/leetcode/tree/master/1527-patients-with-a-condition) |
+| [1757-recyclable-and-low-fat-products](https://github.com/sriramsid-dev/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/sriramsid-dev/leetcode/tree/master/1789-primary-department-for-each-employee) |
 | [1965-employees-with-missing-information](https://github.com/sriramsid-dev/leetcode/tree/master/1965-employees-with-missing-information) |
 ## Array
