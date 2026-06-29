@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/sriramsid-dev/leetcode/tree/master/0610-triangle-judgement) |
 | [1068-product-sales-analysis-i](https://github.com/sriramsid-dev/leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/sriramsid-dev/leetcode/tree/master/1148-article-views-i) |
+| [1211-queries-quality-and-percentage](https://github.com/sriramsid-dev/leetcode/tree/master/1211-queries-quality-and-percentage) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/sriramsid-dev/leetcode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1484-group-sold-products-by-the-date](https://github.com/sriramsid-dev/leetcode/tree/master/1484-group-sold-products-by-the-date) |
 | [1527-patients-with-a-condition](https://github.com/sriramsid-dev/leetcode/tree/master/1527-patients-with-a-condition) |
