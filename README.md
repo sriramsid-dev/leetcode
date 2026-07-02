@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sriramsid-dev/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/sriramsid-dev/leetcode/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/sriramsid-dev/leetcode/tree/master/0071-simplify-path) |
+| [0516-longest-palindromic-subsequence](https://github.com/sriramsid-dev/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0709-to-lower-case](https://github.com/sriramsid-dev/leetcode/tree/master/0709-to-lower-case) |
 | [1021-remove-outermost-parentheses](https://github.com/sriramsid-dev/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/sriramsid-dev/leetcode/tree/master/1143-longest-common-subsequence) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/sriramsid-dev/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sriramsid-dev/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/sriramsid-dev/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0516-longest-palindromic-subsequence](https://github.com/sriramsid-dev/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/sriramsid-dev/leetcode/tree/master/1143-longest-common-subsequence) |
 ## Two Pointers
 |  |
