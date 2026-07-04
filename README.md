@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sriramsid-dev/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sriramsid-dev/leetcode/tree/master/0344-reverse-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/sriramsid-dev/leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0567-permutation-in-string](https://github.com/sriramsid-dev/leetcode/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/sriramsid-dev/leetcode/tree/master/0709-to-lower-case) |
 | [1021-remove-outermost-parentheses](https://github.com/sriramsid-dev/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/sriramsid-dev/leetcode/tree/master/1143-longest-common-subsequence) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/sriramsid-dev/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0496-next-greater-element-i](https://github.com/sriramsid-dev/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sriramsid-dev/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/sriramsid-dev/leetcode/tree/master/0567-permutation-in-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/sriramsid-dev/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/sriramsid-dev/leetcode/tree/master/3945-digit-frequency-score) |
 ## Monotonic Stack
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sriramsid-dev/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/sriramsid-dev/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sriramsid-dev/leetcode/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/sriramsid-dev/leetcode/tree/master/0567-permutation-in-string) |
 ## Linked List
 |  |
 | ------- |
@@ -204,5 +207,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sriramsid-dev/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/sriramsid-dev/leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/sriramsid-dev/leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
