@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sriramsid-dev/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/sriramsid-dev/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/sriramsid-dev/leetcode/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/sriramsid-dev/leetcode/tree/master/0071-simplify-path) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sriramsid-dev/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/sriramsid-dev/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sriramsid-dev/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0496-next-greater-element-i](https://github.com/sriramsid-dev/leetcode/tree/master/0496-next-greater-element-i) |
@@ -201,5 +203,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sriramsid-dev/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/sriramsid-dev/leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
