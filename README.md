@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sriramsid-dev/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sriramsid-dev/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/sriramsid-dev/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/sriramsid-dev/leetcode/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sriramsid-dev/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/sriramsid-dev/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sriramsid-dev/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/sriramsid-dev/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/sriramsid-dev/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/sriramsid-dev/leetcode/tree/master/0724-find-pivot-index) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/sriramsid-dev/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Divide and Conquer
 |  |
