@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/sriramsid-dev/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sriramsid-dev/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/sriramsid-dev/leetcode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/sriramsid-dev/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/sriramsid-dev/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sriramsid-dev/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/sriramsid-dev/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/sriramsid-dev/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/sriramsid-dev/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/sriramsid-dev/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Divide and Conquer
@@ -211,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/sriramsid-dev/leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/sriramsid-dev/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sriramsid-dev/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/sriramsid-dev/leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
