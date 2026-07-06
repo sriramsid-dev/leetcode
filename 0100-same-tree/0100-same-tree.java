@@ -15,18 +15,18 @@
  */
 class Solution {
     public boolean isSameTree(TreeNode p, TreeNode q) {
-        return isidentical(p,q);
+        return check(p,q);
     }
-    public boolean isidentical(TreeNode p,TreeNode q)
+    public boolean check(TreeNode p,TreeNode q)
     {
-        if(p==null && q==null)
+        if(p==null&&q==null)
         {
             return true;
         }
-        if((p==null && q!=null)||(p!=null &&q==null)||p.val!=q.val)
+        if((p!=null&&q==null)||(p==null&&q!=null)||p.val!=q.val)
         {
             return false;
         }
-        return isidentical(p.left,q.left) && isidentical(p.right,q.right);
+        return check(p.left,q.left)&&check(p.right,q.right);
     }
 }
