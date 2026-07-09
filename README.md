@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sriramsid-dev/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/sriramsid-dev/leetcode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/sriramsid-dev/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/sriramsid-dev/leetcode/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/sriramsid-dev/leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/sriramsid-dev/leetcode/tree/master/0125-valid-palindrome) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sriramsid-dev/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/sriramsid-dev/leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/sriramsid-dev/leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/sriramsid-dev/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sriramsid-dev/leetcode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/sriramsid-dev/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/sriramsid-dev/leetcode/tree/master/0118-pascals-triangle) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sriramsid-dev/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/sriramsid-dev/leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/sriramsid-dev/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sriramsid-dev/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0496-next-greater-element-i](https://github.com/sriramsid-dev/leetcode/tree/master/0496-next-greater-element-i) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sriramsid-dev/leetcode/tree/master/0049-group-anagrams) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/sriramsid-dev/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Prefix Sum
 |  |
