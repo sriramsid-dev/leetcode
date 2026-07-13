@@ -15,7 +15,7 @@ class Solution {
         }
         l1.add(nums[i]);
         solve(nums,i+1,l1);
-        l1.remove(l1.get(l1.size()-1));
+        l1.remove(l1.size()-1);
         solve(nums,i+1,l1);
     }
 }
