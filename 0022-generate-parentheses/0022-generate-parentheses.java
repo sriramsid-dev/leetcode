@@ -1,44 +1,23 @@
 class Solution {
     public List<String> generateParenthesis(int n) {
         List<String> l=new ArrayList<>();
-        solve(n,"",l);
+        solve(n,"",l,0,0);
         return l;
     }
-    public void solve(int n,String s,List<String> l)
+    public void solve(int n,String s,List<String> l,int open,int close)
     {
         if(s.length()==2*n)
         {
-            if(isvalid(s))
-            {
-                l.add(s);
-            }
+            l.add(s);
             return;
         }
-        solve(n,s+"(",l);
-        solve(n,s+")",l);
-    }
-    public boolean isvalid(String s)
-    {
-        int c=0;
-        for(int i=0;i<s.length();i++)
+        if(open<n)
         {
-            if(s.charAt(i)=='(')
-            {
-                c++;
-            }
-            else
-            {
-                c--;
-            }
-            if(c<0)
-            {
-                return false;
-            }
+            solve(n,s+"(",l,open+1,close);
         }
-        if(c==0)
+        if(close<open)
         {
-            return true;
+            solve(n,s+")",l,open,close+1);
         }
-        return false;
     }
 }
