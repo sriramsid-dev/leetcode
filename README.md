@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sriramsid-dev/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sriramsid-dev/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sriramsid-dev/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/sriramsid-dev/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/sriramsid-dev/leetcode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/sriramsid-dev/leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/sriramsid-dev/leetcode/tree/master/0374-guess-number-higher-or-lower) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/sriramsid-dev/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sriramsid-dev/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sriramsid-dev/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/sriramsid-dev/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [2236-root-equals-sum-of-children](https://github.com/sriramsid-dev/leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/sriramsid-dev/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sriramsid-dev/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sriramsid-dev/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/sriramsid-dev/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [2236-root-equals-sum-of-children](https://github.com/sriramsid-dev/leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -306,4 +309,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/sriramsid-dev/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sriramsid-dev/leetcode/tree/master/0090-subsets-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/sriramsid-dev/leetcode/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
