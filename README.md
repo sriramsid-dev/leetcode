@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/sriramsid-dev/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/sriramsid-dev/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sriramsid-dev/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/sriramsid-dev/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/sriramsid-dev/leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/sriramsid-dev/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/sriramsid-dev/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sriramsid-dev/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/sriramsid-dev/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/sriramsid-dev/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/sriramsid-dev/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sriramsid-dev/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/sriramsid-dev/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/sriramsid-dev/leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
