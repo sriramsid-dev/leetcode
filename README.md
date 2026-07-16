@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/sriramsid-dev/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/sriramsid-dev/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/sriramsid-dev/leetcode/tree/master/0739-daily-temperatures) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sriramsid-dev/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/sriramsid-dev/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Database
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/sriramsid-dev/leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/sriramsid-dev/leetcode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sriramsid-dev/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sriramsid-dev/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1539-kth-missing-positive-number](https://github.com/sriramsid-dev/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sriramsid-dev/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sriramsid-dev/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sriramsid-dev/leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/sriramsid-dev/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/sriramsid-dev/leetcode/tree/master/0739-daily-temperatures) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sriramsid-dev/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search
 |  |
 | ------- |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/sriramsid-dev/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sriramsid-dev/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/sriramsid-dev/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sriramsid-dev/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/sriramsid-dev/leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
@@ -257,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/sriramsid-dev/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sriramsid-dev/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/sriramsid-dev/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sriramsid-dev/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/sriramsid-dev/leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -328,4 +333,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/sriramsid-dev/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sriramsid-dev/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sriramsid-dev/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
