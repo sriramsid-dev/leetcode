@@ -4,7 +4,7 @@ class Solution {
         {
             for(int j=0;j<grid[0].length;j++)
             {
-                if(i==0||i==grid.length-1||j==0||j==grid[0].length-1||grid[i][j]!=1)
+                if((i==0||i==grid.length-1||j==0||j==grid[0].length-1)&&grid[i][j]==1)
                 {
                     solve(grid,i,j);
                 }
@@ -25,7 +25,7 @@ class Solution {
     }
     public void solve(int[][] grid,int i,int j)
     {
-        if(i>=grid.length||j>=grid[0].length||i<0||j<0||grid[i][j]==0)
+        if(i>=grid.length||j>=grid[0].length||i<0||j<0||grid[i][j]!=1)
         {
             return;
         }
