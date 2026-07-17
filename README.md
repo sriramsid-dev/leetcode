@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/sriramsid-dev/leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/sriramsid-dev/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sriramsid-dev/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0130-surrounded-regions](https://github.com/sriramsid-dev/leetcode/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/sriramsid-dev/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sriramsid-dev/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sriramsid-dev/leetcode/tree/master/0162-find-peak-element) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/sriramsid-dev/leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/sriramsid-dev/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0130-surrounded-regions](https://github.com/sriramsid-dev/leetcode/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/sriramsid-dev/leetcode/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/sriramsid-dev/leetcode/tree/master/1020-number-of-enclaves) |
 ## Hash Table
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/sriramsid-dev/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sriramsid-dev/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sriramsid-dev/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0130-surrounded-regions](https://github.com/sriramsid-dev/leetcode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/sriramsid-dev/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0733-flood-fill](https://github.com/sriramsid-dev/leetcode/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sriramsid-dev/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/sriramsid-dev/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sriramsid-dev/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sriramsid-dev/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0130-surrounded-regions](https://github.com/sriramsid-dev/leetcode/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sriramsid-dev/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sriramsid-dev/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sriramsid-dev/leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -347,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/sriramsid-dev/leetcode/tree/master/0130-surrounded-regions) |
 | [1020-number-of-enclaves](https://github.com/sriramsid-dev/leetcode/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sriramsid-dev/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
