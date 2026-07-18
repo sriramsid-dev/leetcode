@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/sriramsid-dev/leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/sriramsid-dev/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/sriramsid-dev/leetcode/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/sriramsid-dev/leetcode/tree/master/0367-valid-perfect-square) |
 | [3945-digit-frequency-score](https://github.com/sriramsid-dev/leetcode/tree/master/3945-digit-frequency-score) |
 ## Matrix
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sriramsid-dev/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sriramsid-dev/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sriramsid-dev/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/sriramsid-dev/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/sriramsid-dev/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sriramsid-dev/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/sriramsid-dev/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -371,4 +373,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/sriramsid-dev/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sriramsid-dev/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
