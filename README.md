@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/sriramsid-dev/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/sriramsid-dev/leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/sriramsid-dev/leetcode/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/sriramsid-dev/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sriramsid-dev/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sriramsid-dev/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/sriramsid-dev/leetcode/tree/master/1020-number-of-enclaves) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/sriramsid-dev/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/sriramsid-dev/leetcode/tree/master/0198-house-robber) |
 | [0516-longest-palindromic-subsequence](https://github.com/sriramsid-dev/leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0746-min-cost-climbing-stairs](https://github.com/sriramsid-dev/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/sriramsid-dev/leetcode/tree/master/1143-longest-common-subsequence) |
 ## Two Pointers
 |  |
