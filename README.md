@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/sriramsid-dev/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/sriramsid-dev/leetcode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/sriramsid-dev/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/sriramsid-dev/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sriramsid-dev/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sriramsid-dev/leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/sriramsid-dev/leetcode/tree/master/0118-pascals-triangle) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/sriramsid-dev/leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/sriramsid-dev/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sriramsid-dev/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sriramsid-dev/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/sriramsid-dev/leetcode/tree/master/0455-assign-cookies) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sriramsid-dev/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/sriramsid-dev/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/sriramsid-dev/leetcode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/sriramsid-dev/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/sriramsid-dev/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sriramsid-dev/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sriramsid-dev/leetcode/tree/master/0142-linked-list-cycle-ii) |
