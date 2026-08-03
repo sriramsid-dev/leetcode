@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/sriramsid-dev/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/sriramsid-dev/leetcode/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/sriramsid-dev/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/sriramsid-dev/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sriramsid-dev/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/sriramsid-dev/leetcode/tree/master/0455-assign-cookies) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sriramsid-dev/leetcode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/sriramsid-dev/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/sriramsid-dev/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sriramsid-dev/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sriramsid-dev/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sriramsid-dev/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sriramsid-dev/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/sriramsid-dev/leetcode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sriramsid-dev/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/sriramsid-dev/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sriramsid-dev/leetcode/tree/master/0344-reverse-string) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/sriramsid-dev/leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/sriramsid-dev/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sriramsid-dev/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/sriramsid-dev/leetcode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/sriramsid-dev/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sriramsid-dev/leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sriramsid-dev/leetcode/tree/master/0328-odd-even-linked-list) |
@@ -402,4 +406,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sriramsid-dev/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/sriramsid-dev/leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
