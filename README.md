@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sriramsid-dev/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sriramsid-dev/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/sriramsid-dev/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [3731-find-missing-elements](https://github.com/sriramsid-dev/leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sriramsid-dev/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sriramsid-dev/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/sriramsid-dev/leetcode/tree/master/0567-permutation-in-string) |
+| [3731-find-missing-elements](https://github.com/sriramsid-dev/leetcode/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/sriramsid-dev/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/sriramsid-dev/leetcode/tree/master/3945-digit-frequency-score) |
 ## Monotonic Stack
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sriramsid-dev/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/sriramsid-dev/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/sriramsid-dev/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [3731-find-missing-elements](https://github.com/sriramsid-dev/leetcode/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
 | ------- |
