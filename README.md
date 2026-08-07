@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/sriramsid-dev/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sriramsid-dev/leetcode/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/sriramsid-dev/leetcode/tree/master/0367-valid-perfect-square) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sriramsid-dev/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sriramsid-dev/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3945-digit-frequency-score](https://github.com/sriramsid-dev/leetcode/tree/master/3945-digit-frequency-score) |
 ## Matrix
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/sriramsid-dev/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sriramsid-dev/leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sriramsid-dev/leetcode/tree/master/0328-odd-even-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sriramsid-dev/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
