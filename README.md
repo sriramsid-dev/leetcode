@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sriramsid-dev/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sriramsid-dev/leetcode/tree/master/0344-reverse-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/sriramsid-dev/leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0556-next-greater-element-iii](https://github.com/sriramsid-dev/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/sriramsid-dev/leetcode/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/sriramsid-dev/leetcode/tree/master/0709-to-lower-case) |
 | [1021-remove-outermost-parentheses](https://github.com/sriramsid-dev/leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/sriramsid-dev/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sriramsid-dev/leetcode/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/sriramsid-dev/leetcode/tree/master/0367-valid-perfect-square) |
+| [0556-next-greater-element-iii](https://github.com/sriramsid-dev/leetcode/tree/master/0556-next-greater-element-iii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sriramsid-dev/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sriramsid-dev/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3945-digit-frequency-score](https://github.com/sriramsid-dev/leetcode/tree/master/3945-digit-frequency-score) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sriramsid-dev/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sriramsid-dev/leetcode/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/sriramsid-dev/leetcode/tree/master/0455-assign-cookies) |
+| [0556-next-greater-element-iii](https://github.com/sriramsid-dev/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/sriramsid-dev/leetcode/tree/master/0567-permutation-in-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sriramsid-dev/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Linked List
