@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/sriramsid-dev/leetcode/tree/master/0556-next-greater-element-iii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sriramsid-dev/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sriramsid-dev/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sriramsid-dev/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3945-digit-frequency-score](https://github.com/sriramsid-dev/leetcode/tree/master/3945-digit-frequency-score) |
 ## Matrix
 |  |
