@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/sriramsid-dev/leetcode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sriramsid-dev/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/sriramsid-dev/leetcode/tree/master/0216-combination-sum-iii) |
+| [0268-missing-number](https://github.com/sriramsid-dev/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sriramsid-dev/leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/sriramsid-dev/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0455-assign-cookies](https://github.com/sriramsid-dev/leetcode/tree/master/0455-assign-cookies) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sriramsid-dev/leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/sriramsid-dev/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sriramsid-dev/leetcode/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/sriramsid-dev/leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/sriramsid-dev/leetcode/tree/master/0367-valid-perfect-square) |
 | [0556-next-greater-element-iii](https://github.com/sriramsid-dev/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0728-self-dividing-numbers](https://github.com/sriramsid-dev/leetcode/tree/master/0728-self-dividing-numbers) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sriramsid-dev/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sriramsid-dev/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/sriramsid-dev/leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/sriramsid-dev/leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/sriramsid-dev/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sriramsid-dev/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/sriramsid-dev/leetcode/tree/master/0567-permutation-in-string) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/sriramsid-dev/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sriramsid-dev/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/sriramsid-dev/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/sriramsid-dev/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/sriramsid-dev/leetcode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/sriramsid-dev/leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/sriramsid-dev/leetcode/tree/master/0374-guess-number-higher-or-lower) |
@@ -199,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/sriramsid-dev/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/sriramsid-dev/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sriramsid-dev/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/sriramsid-dev/leetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/sriramsid-dev/leetcode/tree/master/0455-assign-cookies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sriramsid-dev/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/sriramsid-dev/leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -410,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/sriramsid-dev/leetcode/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/sriramsid-dev/leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/sriramsid-dev/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/sriramsid-dev/leetcode/tree/master/0268-missing-number) |
 ## Binary Search Tree
 |  |
 | ------- |
