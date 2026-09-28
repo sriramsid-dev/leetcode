@@ -5,14 +5,15 @@ class Solution {
         {
             map.put(nums[i],map.getOrDefault(nums[i],0)+1);
         }
-        int m=Integer.MIN_VALUE;
-        for(int j:map.keySet())
+        int f=0;
+        for(int i:map.keySet())
         {
-            if(map.get(j)>(nums.length/2))
+            if(map.get(i)>nums.length/2)
             {
-                m=j;
+                f=i;
+                break;
             }
         }
-        return m;
+        return f;
     }
 }
