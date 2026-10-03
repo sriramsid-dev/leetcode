@@ -3,7 +3,7 @@ class Solution {
         int s=0,max=Integer.MIN_VALUE;
         for(int i=0;i<nums.length;i++)
         {
-            s+=nums[i];
+            s=s+nums[i];
             if(max<s)
             {
                 max=s;
