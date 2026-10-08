@@ -11,13 +11,13 @@ class Solution {
     {
         if(i>=nums.length)
         {
-           l.add(new ArrayList<>(l1));
+            l.add(new ArrayList<>(l1));
             return;
         }
         l1.add(nums[i]);
         solve(nums,i+1,l1);
-        l1.remove(l1.size()-1);
-        while(i+1<nums.length&&nums[i]==nums[i+1])i++;
+        l1.remove(l1.get(l1.size()-1));
+        while(i<nums.length-1&&nums[i]==nums[i+1])i++;
         solve(nums,i+1,l1);
     }
 }
