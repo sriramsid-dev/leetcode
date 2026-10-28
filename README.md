@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/sriramsid-dev/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/sriramsid-dev/leetcode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sriramsid-dev/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/sriramsid-dev/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Math
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/sriramsid-dev/leetcode/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/sriramsid-dev/leetcode/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/sriramsid-dev/leetcode/tree/master/1020-number-of-enclaves) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/sriramsid-dev/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/sriramsid-dev/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/sriramsid-dev/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Counting Sort
 |  |
 | ------- |
